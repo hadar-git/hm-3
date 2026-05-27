@@ -1,5 +1,6 @@
 {
   "name": "Dana",
   "age": 25,
-  "pos": 2
+  "pos": 2,
+  "val": 90
 }
